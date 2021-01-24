@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887149046437",
+    "project_id": "vena-7842b",
+    "storage_bucket": "vena-7842b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887149046437:android:35337e6060ce4592417b4c",
+        "android_client_info": {
+          "package_name": "com.example.vena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887149046437-q9mp2dc5gfm2gos94fejc40ksknl1nfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBgEbyWzZZlYvGv04zX9cEYEzOfrItmpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887149046437-q9mp2dc5gfm2gos94fejc40ksknl1nfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
